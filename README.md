@@ -1,4 +1,4 @@
-# CodeChef-codes
+# CodeChef_PROBLEMS
 CODE CHEF  PROGRAM CODES😎
 
 ### FORK🔪 THE REPO and STAR⭐ IT ###
