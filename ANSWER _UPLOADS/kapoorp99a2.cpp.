@@ -1,0 +1,22 @@
+#include<bits/stdc++.h>
+using namespace std; 
+typedef long long int lli; 
+#define tc  lli t;cin >> t;while(t--)
+#define ffi(x,y) for(lli i=x;i<y;i++)
+int main() 
+{
+  ios_base::sync_with_stdio(false);
+  cin.tie(NULL);
+  cout.tie(NULL);
+  tc
+  { 
+   lli a[3];
+   ffi(0,3)
+   {
+    cin>>a[i];
+   }
+   sort(a,a+n);
+   cout<<a[1]<<'\n';
+  }
+return 0;
+}
