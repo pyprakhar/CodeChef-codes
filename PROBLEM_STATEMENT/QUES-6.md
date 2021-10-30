@@ -1,4 +1,3 @@
-```
 
 Implement [pow(x, n)](http://www.cplusplus.com/reference/valarray/pow/), which calculates `x` raised to the power `n` (i.e., `xn`).
 
@@ -28,4 +27,4 @@ Implement [pow(x, n)](http://www.cplusplus.com/reference/valarray/pow/), which c
 
 * `-231 <= n <= 231-1`
 
-* `-104 <= xn <= 104````
+* `-104 <= xn <= 104
